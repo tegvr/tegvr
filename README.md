@@ -1,5 +1,10 @@
-### Hi there 👋
+## <img src='http://aka.tegvr.com/assets/images/TEGVR-BLACK_v.png' height='40' width='60'>
 
+|**[ Homepage](http://tegvr.com)**| **[ Blog ](http://blog.tegvr.com)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|**[Playlist](http://playlist.tegvr.com)**|**[Linktree](http://aka.tegvr.com)**|
+|--|--|--|--|--|--
+
+> Hi! I'm tegar, known on the internet as **@tegvr**. Nothing much for
+> now :sleepy:,  in the meantime you can check links above.
 <!--
 **tegvr/tegvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
