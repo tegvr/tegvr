@@ -1,7 +1,7 @@
 ## <img src='http://aka.tegvr.com/assets/images/TEGVR-BLACK_v.png' height='60' width='100'>
 
-|**[ Homepage](http://tegvr.com)**| **[ Blog ](http://blog.tegvr.com)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|**[Playlist](http://playlist.tegvr.com)**|**[Linktree](http://aka.tegvr.com)**|
-|--|--|--|--|--|--
+|**[ Homepage](http://tegvr.com)**| **[ Blog ](http://blog.tegvr.com)**|**[Portfolio](http://portfolio.tegvr.com/)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|**[Playlist](http://playlist.tegvr.com)**|**[Linktree](http://aka.tegvr.com)**|
+|--|--|--|--|--|--|--
 
 :raised_hand_with_fingers_splayed: Hi! I'm tegar, known on the internet as **@tegvr**. Nothing much for
 now :sleepy:,  
