@@ -1,4 +1,4 @@
-## <img src='http://code.tegvr.com/assets/logo.png' height='60' width='100'>
+## <img src='http://code.tegvr.com/assets/logo.png' height='60'>
 
 |**[ Homepage](http://tegvr.com)**| **[ Blog ](http://blog.tegvr.com)**|**[Portfolio](http://portfolio.tegvr.com/)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|**[Playlist](http://playlist.tegvr.com)**|**[Linktree](http://aka.tegvr.com)**|
 |--|--|--|--|--|--|--
