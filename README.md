@@ -1,4 +1,4 @@
-## <img src='http://code.tegvr.com/assets/logo.png' height='60'>
+## <img src='https://res.cloudinary.com/tegvr/image/upload/v1627498272/tegvr.com/FINAL-FIX_tocti7.png' height='60'>
 
 |**[ Homepage](http://tegvr.com)**| **[ Blog ](http://tegvr.com)**|**[Portfolio](http://tegvr.com/)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|
 |--|--|--|--|--|
