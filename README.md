@@ -1,6 +1,6 @@
 ## <img src='https://res.cloudinary.com/tegvr/image/upload/v1627498272/tegvr.com/FINAL-FIX_tocti7.png' height='60'>
 
-|**[ Homepage](http://tegvr.com)**| **[ Blog ](http://tegvr.com)**|**[Portfolio](http://tegvr.com/)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|
+|**[ Homepage](http://tegvr.com)**| **[ Blog ](https://blog.tegvr.com)**|**[Portfolio](http://tegvr.com/)**|**[Twitter](http://twitter.com/tegvr)** | **[Linkedin](http://linkedin.com/in/tegvr)**|
 |--|--|--|--|--|
 
 :raised_hand_with_fingers_splayed: Hi! I'm tegar, known on the internet as **@tegvr**. Nothing much for
