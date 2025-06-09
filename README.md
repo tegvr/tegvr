@@ -7,7 +7,7 @@
 now :sleepy:,  
 in the meantime you can check links above.
 
-:e-mail: tegvr@tegvr.com <br/>
+ <br/>
 💬 twitter/@tegvr
 <!--
 **tegvr/tegvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
